@@ -240,3 +240,17 @@ body.loaded > div.preloader {
     transform: rotate(-360deg);
   }
 }
+.card{
+  height: 100%;
+}
+.reg_cards{
+  margin-bottom: 50px;
+}
+#anchor:hover{
+  color: white;
+
+}
+.reg_links{
+  position: absolute;
+  bottom: 3px;
+}
