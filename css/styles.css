@@ -260,3 +260,6 @@ body.loaded > div.preloader {
 .linebreak{
   text-align: center;
 }
+.card-pad{
+  margin-top: 2em;
+}
